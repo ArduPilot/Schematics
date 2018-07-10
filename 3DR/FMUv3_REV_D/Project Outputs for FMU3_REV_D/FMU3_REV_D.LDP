@@ -1,0 +1,5 @@
+Layer Pairs Export File for PCB: F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\FMUv3_REV_D\FMU3_REV_D.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=fmu3_rev_d.txt|DrillLayers=gtl,g2,g3,g4,g13,g14,g15,gbl
+LayersSetName=Top_Verticall_top_Blind_Vias|DrillFile=fmu3_rev_d.tx1|DrillLayers=gtl,g2,g3,g4
+LayersSetName=HorizontalTop_Bot_Blind_Vias|DrillFile=fmu3_rev_d.tx2|DrillLayers=g3,g4,g13,g14,g15,gbl
+LayersSetName=Horizontal_bot_Bot_Blind_Vias|DrillFile=fmu3_rev_d.tx3|DrillLayers=g13,g14,g15,gbl

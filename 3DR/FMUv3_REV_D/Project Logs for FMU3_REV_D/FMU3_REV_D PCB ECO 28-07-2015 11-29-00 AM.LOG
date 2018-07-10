@@ -1,0 +1,12 @@
+Added Component: Designator=3DR Logo(3DR_AU)
+Change Class Name : Old Net Name=PCA_0004_80PIN_FMU3_REV_C New Net Name=80PIN_FMU3_REV_C
+Change Class Name : Old Net Name=PCA_0004_FMU_FMU3_REV_C New Net Name=FMU_FMU3_REV_C
+Change Class Name : Old Net Name=PCA_0004_FMU_Power_FMU3_REV_C New Net Name=FMU_Power_FMU3_REV_C
+Change Class Name : Old Net Name=PCA_0004_IO_FMU3_REV_C New Net Name=IO_FMU3_REV_C
+Change Class Name : Old Net Name=PCA_0004_IO_PWR_FMU3_REV_C New Net Name=IO_PWR_FMU3_REV_C
+Change Class Name : Old Net Name=PCA_0004_LEDs_FMU3_REV_C New Net Name=LEDs_FMU3_REV_C
+Change Class Name : Old Net Name=PCA_0004_PWM_PPM_FMU3_REV_C New Net Name=PWM_PPM_FMU3_REV_C
+Change Class Name : Old Net Name=PCA_0004_SD_USB_FMU3_REV_C New Net Name=SD_USB_FMU3_REV_C
+Change Class Name : Old Net Name=PCA_0004_SENSORS_FMU3_REV_C New Net Name=SENSORS_FMU3_REV_C
+Change Class Name : Old Net Name=PCA_0004_SERIAL_FMU3_REV_C New Net Name=SERIAL_FMU3_REV_C
+Added Class: Name=CHANGE_FMU3_REV_D

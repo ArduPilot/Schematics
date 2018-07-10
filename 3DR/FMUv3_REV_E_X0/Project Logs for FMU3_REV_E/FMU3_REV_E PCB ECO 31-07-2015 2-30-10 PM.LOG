@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=FMU-VDD_3V3 Pin=C8002-P$1
+Removed Pin From Net: NetName=IO-VDD_3V3 Pin=C8003-P$1
+Removed Pin From Net: NetName=FMU-VDD_3V3 Pin=U8001-2
+Removed Pin From Net: NetName=FMU-VDD_3V3 Pin=U8001-10
+Removed Pin From Net: NetName=FMU-VDD_3V3 Pin=U8001-19
+Removed Pin From Net: NetName=IO-CH8 Pin=U8002-1
+Removed Pin From Net: NetName=IO-CH7 Pin=U8002-3
+Removed Pin From Net: NetName=IO-CH6 Pin=U8002-4
+Removed Pin From Net: NetName=IO-CH5 Pin=U8002-5
+Removed Pin From Net: NetName=IO-CH4 Pin=U8002-6
+Removed Pin From Net: NetName=IO-CH2 Pin=U8002-8
+Removed Pin From Net: NetName=IO-CH1 Pin=U8002-9
+Removed Pin From Net: NetName=IO-VDD_3V3 Pin=U8002-10
+Removed Pin From Net: NetName=NetRN8001_8 Pin=U8002-12
+Removed Pin From Net: NetName=NetRN8001_7 Pin=U8002-13
+Removed Pin From Net: NetName=NetRN8001_6 Pin=U8002-14
+Removed Pin From Net: NetName=NetRN8001_5 Pin=U8002-15
+Removed Pin From Net: NetName=NetRN8001_4 Pin=U8002-16
+Removed Pin From Net: NetName=NetRN8001_3 Pin=U8002-17
+Removed Pin From Net: NetName=NetRN8001_2 Pin=U8002-18
+Removed Pin From Net: NetName=IO-VDD_3V3 Pin=U8002-19
+Removed Pin From Net: NetName=NetRN8001_1 Pin=U8002-20
+Change Component DesignItemId : Designator=U8002 Old DesignItemId=TXS0108QFN20 New DesignItemId=SN74LVC8T245
+Change Component Comment : Designator=U8002 Old Comment=TXS0108QFN20 New Comment=SN74LVC8T245
+Change Component Description : Designator=U8002 Old Description=IC XLATR VOLT-LVL 8B BDIR 20QFN New Description=
+Change Component Library : Designator=U8002 Old Library=pixhawk2.SCHLIB New Library=3DR.SchLib
+Added Component: Designator=JP1(SJ_3_PASTE1&2)
+Added Pin To Net: NetName=IO-VDD_3V3 Pin=JP1-1
+Added Pin To Net: NetName=IO-VDD_5V5 Pin=JP1-3
+Added Pin To Net: NetName=IO-VDD_3V3 Pin=U8002-1
+Added Pin To Net: NetName=IO-CH8 Pin=U8002-3
+Added Pin To Net: NetName=IO-CH7 Pin=U8002-4
+Added Pin To Net: NetName=IO-CH6 Pin=U8002-5
+Added Pin To Net: NetName=IO-CH5 Pin=U8002-6
+Added Pin To Net: NetName=IO-CH4 Pin=U8002-7
+Added Pin To Net: NetName=IO-CH2 Pin=U8002-9
+Added Pin To Net: NetName=IO-CH1 Pin=U8002-10
+Added Pin To Net: NetName=GND Pin=U8002-12
+Added Pin To Net: NetName=GND Pin=U8002-13
+Added Pin To Net: NetName=NetRN8001_8 Pin=U8002-14
+Added Pin To Net: NetName=NetRN8001_7 Pin=U8002-15
+Added Pin To Net: NetName=NetRN8001_6 Pin=U8002-16
+Added Pin To Net: NetName=NetRN8001_5 Pin=U8002-17
+Added Pin To Net: NetName=NetRN8001_4 Pin=U8002-18
+Added Pin To Net: NetName=NetRN8001_3 Pin=U8002-19
+Added Pin To Net: NetName=NetRN8001_2 Pin=U8002-20
+Added Pin To Net: NetName=NetC8002_P$1 Pin=C8002-P$1
+Added Pin To Net: NetName=NetC8002_P$1 Pin=U8001-2
+Added Pin To Net: NetName=NetC8002_P$1 Pin=U8001-10
+Added Pin To Net: NetName=NetC8002_P$1 Pin=U8001-19
+Added Net: Name=NetC8002_P$1
+Added Pin To Net: NetName=NetC8003_P$1 Pin=C8003-P$1
+Added Pin To Net: NetName=NetC8003_P$1 Pin=JP1-2
+Added Net: Name=NetC8003_P$1
+Change Class Name : Old Net Name=PWM_PPM_FMU3_REV_C New Net Name=PWM_PPM_FMU3_REV_E
+Added Member To Class: ClassName=PWM_PPM_FMU3_REV_E Member=Component JP1 J_1-2

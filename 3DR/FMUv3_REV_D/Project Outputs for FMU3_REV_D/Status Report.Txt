@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [FMU3_REV_D.PrjPcb]
+   Generated File[Pick Place for FMU3_REV_D.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:46:33 AM On 28/07/2015

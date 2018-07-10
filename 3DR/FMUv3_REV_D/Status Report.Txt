@@ -1,0 +1,10 @@
+Output: PCH
+Type  : BOM
+From  : Variant [FMU3_REV_D] of Project [FMU3_REV_D.PrjPcb]
+   Generated File[PCH-FMU3_REV_D(FMU3_REV_D).xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:50:16 AM On 28/07/2015

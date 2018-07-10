@@ -1,0 +1,947 @@
+*************************************************************
+FileName = FMU3_REV_G.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top
+      File : FMU3_REV_G.GTL
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : GND_top
+      File : FMU3_REV_G.G1
+
+    Adding Layer      : GND_top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D19
+    D64
+    D68
+    D69
+    D72
+    D73
+    D74
+*************************************************************
+
+*************************************************************
+Generating : HorizontalTop
+      File : FMU3_REV_G.G2
+
+    Adding Layer      : HorizontalTop
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D64
+    D67
+    D68
+    D70
+    D72
+    D73
+    D74
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Verticall_top
+      File : FMU3_REV_G.G3
+
+    Adding Layer      : Verticall_top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D19
+    D64
+    D65
+    D69
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+*************************************************************
+
+*************************************************************
+Generating : Horizontal_bot
+      File : FMU3_REV_G.G4
+
+    Adding Layer      : Horizontal_bot
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D64
+    D65
+    D66
+    D67
+    D68
+    D72
+    D73
+    D74
+    D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : VerticalBot
+      File : FMU3_REV_G.G5
+
+    Adding Layer      : VerticalBot
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D19
+    D64
+    D65
+    D67
+    D68
+    D69
+    D72
+    D73
+    D74
+    D76
+    D78
+*************************************************************
+
+*************************************************************
+Generating : GND_BOT
+      File : FMU3_REV_G.G6
+
+    Adding Layer      : GND_BOT
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D19
+    D64
+    D69
+    D72
+    D73
+    D74
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Bottom
+      File : FMU3_REV_G.GBL
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D16
+    D17
+    D19
+    D23
+    D25
+    D26
+    D29
+    D30
+    D36
+    D37
+    D38
+    D39
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : FMU3_REV_G.GPB
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D16
+    D17
+    D19
+    D23
+    D25
+    D26
+    D29
+    D30
+    D36
+    D37
+    D38
+    D39
+    D69
+    D70
+    D71
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : FMU3_REV_G.GPT
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D69
+    D70
+    D71
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : FMU3_REV_G.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D64
+    D65
+    D66
+    D68
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : FMU3_REV_G.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D69
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+    D139
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
+    D148
+    D149
+    D150
+    D151
+    D152
+    D153
+    D154
+    D155
+    D156
+    D157
+    D158
+    D159
+    D160
+    D161
+    D162
+    D163
+    D164
+    D165
+    D166
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : FMU3_REV_G.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D36
+    D50
+    D54
+    D69
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D130
+    D131
+    D132
+    D133
+    D134
+    D135
+    D136
+    D137
+    D138
+    D140
+    D141
+    D142
+    D143
+    D144
+    D145
+    D146
+    D147
+    D148
+    D149
+    D150
+    D151
+    D152
+    D154
+    D155
+    D156
+    D158
+    D159
+    D160
+    D167
+    D168
+    D169
+    D170
+    D171
+    D172
+    D173
+    D174
+    D175
+    D176
+    D177
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : FMU3_REV_G.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D25
+    D26
+    D36
+    D69
+    D114
+    D115
+    D120
+    D122
+    D132
+    D133
+    D140
+    D141
+    D142
+    D173
+    D174
+    D175
+    D177
+    D178
+    D179
+    D180
+    D181
+    D182
+    D183
+    D184
+    D185
+    D186
+    D187
+    D188
+    D189
+    D190
+    D191
+    D192
+    D193
+    D194
+    D195
+    D196
+    D197
+    D198
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : FMU3_REV_G.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D69
+    D114
+    D115
+    D120
+    D126
+    D128
+    D129
+    D132
+    D133
+    D139
+    D140
+    D141
+    D142
+    D178
+    D179
+    D180
+    D181
+    D182
+    D183
+    D184
+    D185
+    D186
+    D187
+    D188
+    D189
+    D190
+    D191
+    D192
+    D193
+    D194
+    D195
+    D199
+    D200
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : FMU3_REV_G.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D64
+    D65
+    D68
+    D102
+    D103
+    D106
+    D107
+    D109
+    D110
+    D201
+    D202
+    D203
+    D204
+    D205
+    D206
+    D207
+    D208
+    D209
+    D210
+    D211
+    D212
+    D213
+    D214
+    D215
+    D216
+    D217
+    D218
+    D219
+    D220
+    D221
+    D222
+    D223
+    D224
+    D225
+    D226
+    D227
+    D228
+    D229
+    D230
+    D231
+    D232
+    D233
+    D234
+    D235
+    D236
+    D237
+    D238
+    D239
+    D240
+    D241
+    D242
+    D243
+    D244
+    D245
+    D246
+    D247
+    D248
+    D249
+    D250
+    D251
+    D252
+    D253
+    D254
+    D255
+    D256
+    D257
+    D258
+    D259
+    D260
+    D261
+    D262
+    D263
+    D264
+    D265
+    D266
+    D267
+    D268
+    D269
+    D270
+    D271
+    D272
+    D273
+    D274
+    D275
+    D276
+*************************************************************
+
+*************************************************************
+Generating : Dimension
+      File : FMU3_REV_G.GM1
+
+    Adding Layer      : Dimension
+
+
+Used DCodes :
+    D277
+*************************************************************
+
+*************************************************************
+Generating : tDocu
+      File : FMU3_REV_G.GM16
+
+    Adding Layer      : tDocu
+
+
+Used DCodes :
+    D64
+    D65
+    D67
+    D68
+    D102
+    D103
+    D104
+    D278
+    D279
+    D280
+    D281
+    D282
+    D283
+    D284
+    D285
+    D286
+    D287
+    D288
+    D289
+    D290
+    D291
+    D292
+    D293
+    D294
+    D295
+    D296
+    D297
+    D298
+    D299
+    D300
+    D301
+    D302
+    D303
+    D304
+    D305
+    D306
+    D307
+    D308
+    D309
+    D310
+    D311
+    D312
+    D313
+    D314
+    D315
+    D316
+    D317
+    D318
+    D319
+    D320
+    D321
+    D322
+    D323
+    D324
+    D325
+    D326
+    D327
+    D328
+    D329
+    D330
+    D331
+    D332
+    D333
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : FMU3_REV_G.GD1
+
+    Adding Drill Pair : Top-Bottom
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D279
+    D334
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : FMU3_REV_G.GD2
+
+    Adding Drill Pair : Top-Verticall_top
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D279
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : FMU3_REV_G.GD3
+
+    Adding Drill Pair : HorizontalTop-Bottom
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D279
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : FMU3_REV_G.GD4
+
+    Adding Drill Pair : Horizontal_bot-Bottom
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D279
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : FMU3_REV_G.GG1
+
+    Adding Drill Pair : Top-Bottom
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D279
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : FMU3_REV_G.GG2
+
+    Adding Drill Pair : Top-Verticall_top
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D279
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : FMU3_REV_G.GG3
+
+    Adding Drill Pair : HorizontalTop-Bottom
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D279
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : FMU3_REV_G.GG4
+
+    Adding Drill Pair : Horizontal_bot-Bottom
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D279
+*************************************************************
+

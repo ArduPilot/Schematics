@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=U405 Old Footprint=MPU-6500 New Footprint=MPU-9250
+Added Pin To Net: NetName=VDD_3V3_SENSORS Pin=U405-1
+Added Pin To Net: NetName=VDD_3V3_SENSORS Pin=U405-8
+Added Pin To Net: NetName=SPI_INT_MISO Pin=U405-9
+Added Pin To Net: NetName=GND Pin=U405-11
+Added Pin To Net: NetName=MPU_DRDY Pin=U405-12
+Added Pin To Net: NetName=VDD_3V3_SENSORS Pin=U405-13
+Added Pin To Net: NetName=GND Pin=U405-18
+Added Pin To Net: NetName=GND Pin=U405-20
+Added Pin To Net: NetName=M\P\U\_\C\S\ Pin=U405-22
+Added Pin To Net: NetName=SPI_INT_SCK Pin=U405-23
+Added Pin To Net: NetName=SPI_INT_MOSI Pin=U405-24
+Added Pin To Net: NetName=REGOUT Pin=U405-10
+Added Net: Name=REGOUT
+Added Member To Class: ClassName=80PIN_FMU3_REV_C Member=Component U405 MPU-9250

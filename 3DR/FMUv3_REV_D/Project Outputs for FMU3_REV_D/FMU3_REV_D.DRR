@@ -1,0 +1,47 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: FMU3_REV_D.PcbDoc   28/07/2015  11:46:13 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : FMU3_REV_D.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.2mm (7.874mil)         Round          188              404.33 mm (15.92 Inch)
+T2        0.3mm (11.811mil)        Round          4                52.88 mm (2.08 Inch)
+T4        1.8mm (70.866mil)        Round          3                72.42 mm (2.85 Inch)
+T5        0.66mm (25.984mil)       Round          1         NPTH   0.00 mm (0.00 Inch)
+---------------------------------------------------------------------------
+Totals                                            196              529.63 mm (20.85 Inch)
+Layer Pair : Top to Verticall_top
+ASCII RoundHoles File : FMU3_REV_D.TX1
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.2mm (7.874mil)         Round          127              328.23 mm (12.92 Inch)
+---------------------------------------------------------------------------
+Totals                                            127              328.23 mm (12.92 Inch)
+Layer Pair : HorizontalTop to Bottom
+ASCII RoundHoles File : FMU3_REV_D.TX2
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T3        0.66mm (25.984mil)       Round          1                0.00 mm (0.00 Inch)
+---------------------------------------------------------------------------
+Totals                                            1                0.00 mm (0.00 Inch)
+Layer Pair : Horizontal_bot to Bottom
+ASCII RoundHoles File : FMU3_REV_D.TX3
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.2mm (7.874mil)         Round          96               285.69 mm (11.25 Inch)
+---------------------------------------------------------------------------
+Totals                                            96               285.69 mm (11.25 Inch)
+---------------------------------------------------------------------------
+Totals                                            420              1143.55 mm (45.02 Inch)
+
+Two holes at same point : 1
+-----------------------
+1849,1147
+
+Total Processing Time (hh:mm:ss) : 00:00:00

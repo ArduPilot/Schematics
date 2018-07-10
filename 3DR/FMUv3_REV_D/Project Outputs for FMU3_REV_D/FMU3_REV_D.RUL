@@ -1,0 +1,14 @@
+DRC Rules Export File for PCB: F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\FMUv3_REV_D\FMU3_REV_D.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit_2|Scope=Board|Allowed=0
+RuleKind=ShortCircuit|RuleName=ShortCircuit_1|Scope=Board|Allowed=1
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=mdViaVia|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=mdPadVia|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=mdPadPad|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=mdWireVia|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=mdWirePad|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=mdWireWire|Scope=Board|Minimum=5.91
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=1

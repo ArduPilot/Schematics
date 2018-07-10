@@ -1,0 +1,26 @@
+Added Component: Designator=U8002(QFN24-RGY)
+Added Pin To Net: NetName=IO-VDD_3V3 Pin=U8002-1
+Added Pin To Net: NetName=IO-VDD_3V3 Pin=U8002-2
+Added Pin To Net: NetName=IO-CH8 Pin=U8002-3
+Added Pin To Net: NetName=IO-CH7 Pin=U8002-4
+Added Pin To Net: NetName=IO-CH6 Pin=U8002-5
+Added Pin To Net: NetName=IO-CH5 Pin=U8002-6
+Added Pin To Net: NetName=IO-CH3 Pin=U8002-7
+Added Pin To Net: NetName=IO-CH4 Pin=U8002-7
+Added Pin To Net: NetName=IO-CH2 Pin=U8002-9
+Added Pin To Net: NetName=IO-CH1 Pin=U8002-10
+Added Pin To Net: NetName=GND Pin=U8002-11
+Added Pin To Net: NetName=GND Pin=U8002-12
+Added Pin To Net: NetName=GND Pin=U8002-13
+Added Pin To Net: NetName=NetRN8001_8 Pin=U8002-14
+Added Pin To Net: NetName=NetRN8001_7 Pin=U8002-15
+Added Pin To Net: NetName=NetRN8001_6 Pin=U8002-16
+Added Pin To Net: NetName=NetRN8001_5 Pin=U8002-17
+Added Pin To Net: NetName=NetRN8001_4 Pin=U8002-18
+Added Pin To Net: NetName=NetRN8001_3 Pin=U8002-19
+Added Pin To Net: NetName=NetRN8001_2 Pin=U8002-20
+Added Pin To Net: NetName=NetRN8001_1 Pin=U8002-21
+Added Pin To Net: NetName=GND Pin=U8002-22
+Added Pin To Net: NetName=NetC8003_P$1 Pin=U8002-23
+Added Pin To Net: NetName=NetC8003_P$1 Pin=U8002-24
+Added Member To Class: ClassName=PWM_PPM_FMU3_REV_E Member=Component U8002 SN74LVC8T245

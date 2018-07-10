@@ -1,0 +1,35 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: FMU3_REV_G.GBR   9/09/2015  4:06:59 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top                                     
+.G1                 GND_top                                 
+.G2                 HorizontalTop                           
+.G3                 Verticall_top                           
+.G4                 Horizontal_bot                          
+.G5                 VerticalBot                             
+.G6                 GND_BOT                                 
+.GBL                Bottom                                  
+.GPB                Bottom Pad Master                       
+.GPT                Top Pad Master                          
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM1                Dimension                               
+.GM16               tDocu                                   
+.GD1                Drill Drawing                           
+.GD2                Drill Drawing                           
+.GD3                Drill Drawing                           
+.GD4                Drill Drawing                           
+.GG1                Drill Guide                             
+.GG2                Drill Guide                             
+.GG3                Drill Guide                             
+.GG4                Drill Guide                             
+------------------------------------------------------------------------------------------

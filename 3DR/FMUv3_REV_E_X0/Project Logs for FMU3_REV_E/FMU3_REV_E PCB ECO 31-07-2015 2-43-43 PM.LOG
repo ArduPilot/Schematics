@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=JP1 Old Footprint=SJ_3_PASTE1&2 New Footprint=SJ_3_NO_PLACE_1-2_short
+Added Pin To Net: NetName=IO-CH4 Pin=U8002-7

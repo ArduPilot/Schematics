@@ -1,0 +1,86 @@
+Protel Design System Design Rule Check
+PCB File : F:\Current_Work\00_0_git\Pixhawk_OS_Hardware\FMUv3_REV_E_X0\FMU3_REV_E.PcbDoc
+Date     : 31/07/2015
+Time     : 7:42:46 PM
+
+Processing Rule : Width Constraint (Min=0.1mm) (Max=4mm) (Preferred=0.254mm) (InComponent('3DR Logo'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Yes) ((InNet('F\M\U\-\L\E\D\_\A\M\B\E\R\') OR InNet('FMU-CH3'))),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.15mm) (Max=4mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=2540mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.203mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk primitive without silk layer
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Track (29.122mm,39.929mm)(29.997mm,39.929mm)  Bottom
+   Violation between Net Antennae: Track (30.886mm,32.004mm)(31.198mm,31.692mm)  Horizontal_bot
+Rule Violations :2
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) ((InLayerClass('Signal Layers') AND IsTrack)),((InLayerClass('Signal Layers') AND IsTrack))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) ((InLayerClass('Signal Layers') AND IsTrack)),(IsPad)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) ((InLayerClass('Signal Layers') AND IsTrack)),(IsVia)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) (IsPad),(IsPad)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) (IsPad),(IsVia)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) (IsVia),(IsVia)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.15mm) (All),(All)
+   Violation between Track (29.122mm,39.929mm)(29.997mm,39.929mm)  Bottom and 
+                     Pad JP1-2(29.997mm,39.929mm)  Bottom
+Rule Violations :1
+
+Processing Rule : Clearance Constraint (Gap=0mm) (InComponent('U1001')),(InComponent('U$9001'))
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=Yes) (InNet ('No Net')),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0mm) ((InComponent('L2001') OR InComponent('L2002'))),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Track (29.122mm,39.929mm)(29.997mm,39.929mm)  Bottom and 
+                     Pad JP1-2(29.997mm,39.929mm)  Bottom
+Rule Violations :1
+
+
+Violations Detected : 4
+Time Elapsed        : 00:00:09
