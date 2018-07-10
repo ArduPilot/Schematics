@@ -1,0 +1,24 @@
+Licence for use of the Patented Cube footprint. 
+before using the Cube Footprint in your personal or commercial PCB design, you must ask for a licence to use this.
+the footprint includes the 80 pin connector Male connector, and the 4x screw positions or simple variations of this.
+the use of the screw positions and 80 pin female connector on the CUBE is NOT covered by this license. you MUST contact ProfiCNC directly for use on the Cube side.
+
+
+ADDING YOUR NAME HERE AND SUBMITTING THE PULL REQUEST IS THE ONLY THING YOU MUST DO.  By ProfiCNC accepting this into the repository, your licence is granted.
+Please add a new line after the previous....
+
+Serial Number |Company Name       |Name of person registering   |Link to company    |Description of use     |Git name of person filling this in   
+
+CB0000001     |3DRobotics         |Philip                       |3DRobotics.com     |Solo main board                  |ProfiCNC 
+CB0000002     |3DRobotics         |Philip                       |3DRobotics.com     |Iris++ main board                |ProfiCNC
+CB0000003     |Hex                |Philip                       |ProfiCNC.com       |Full carrier board               |ProfiCNC
+CB0000004     |Hex                |Philip                       |ProfiCNC.com       |Mini carrier board               |ProfiCNC
+CB0000005     |Hex                |Philip                       |ProfiCNC.com       |Triplex Carrier                  |ProfiCNC
+CB0000006     |Hex                |Philip                       |ProfiCNC.com       |Auto Redundant carrier board     |ProfiCNC
+CB0000007     |VAMATIS            |Nicolas Chaslot              |Vamatis.com        |Mega Solo Carrier board          |ncx94
+CB0000008     |Airbot Systems     |Philip                       |Airbot-systems.com |PDB Carrier Board                |ProfiCNC
+CB0000009     |SpektreWorks       |Daniel Laks                  |spektreworks.com   |Multi-Rotor Carrier Board        |SpektreWorks
+CB0000010     |AguaDrone          |Jeff Wurzbach                |aguadrone.com      |AguaDrone Mainboard              |apache405
+CB0000011     |HiTec              |Jeff Wurzbach                |http://hitecnology.com/drones|Xeno Mainboard         |apache405
+CB0000012     |Planck Aerosystems |Allan Matthew                |http://planckaero.com |Planck Carrier Board          |almatthew
+CB0000013     |AzurDrones         |Antoine LECESTRE             |azurdrones.com     | HPax main board                 |azurdrones
