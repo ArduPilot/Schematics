@@ -1,0 +1,53 @@
+
+
+V5_BASE_V193.pdf  2018-6-21
+
+1：Fix I2C4 definition crossover error issue, thanks APM team found this error
+2：Specification drawings and component parameters
+
+V5_CORE_V176  2018-6-21
+
+1：Fix I2C4 definition crossover error issue, thanks APM team found this error
+2：Specification drawings and component parameters
+
+
+V5_IMU_V197  2018-6-18
+1: Optimized new temperature compensation circuit to make it heated quickly and with less interference
+2: Specification component parameters
+
+
+
+V5_IMU_V196
+
+*)Optimize IMU power supply .
+*)Reconstruction of the temperature compensation circuit, previous versions of the temperature compensation circuit were problematic.
+  Avoid transistor leakage can not be closed problem.
+
+
+2018-6-12
+*) Design file specification modification and troubleshooting to avoid copyright issues
+
+
+V5_Core_V1.75 Relative Developer Edition Difference
+
+*) Modify the I2C Mount Channel of IST8310 to I2C3.
+
+*) Repair motherboard 5V voltage detection on the core.
+
+*) Repair motherboard 3V3 voltage detection on the core.
+
+V5_BASE_V192 Relative Developer Edition Difference
+
+*) This may be a production version, so design the PCB as a 6-layer board structure.
+
+*) Increased I2C conversion chip, enhanced I2C interface protection capabilities and compatibility.
+
+*) Fix ADC 3V3 and ADC 6 Input Pin Errors.
+ADC1_SPARE_2=ADC6. ADC1_SPARE_1=ADC 3V3.
+
+*) d all the way to the compass, on the I2C2 channel, for backup, DNP.
+
+
+HACK_V5_IMU_V1.95 Relative Developer Edition Difference
+
+*) 
