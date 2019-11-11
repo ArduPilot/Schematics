@@ -1,0 +1,2 @@
+define(["require","exports","tslib","react","classnames","spectrum/tertiary_link"],function(e,a,t,n,l,i){"use strict";Object.defineProperty(a,"__esModule",{value:!0}),n=t.__importStar(n),l=t.__importDefault(l),a.AnnotationLabel=n.memo(function(e){var a=e.disabled,t=void 0!==a&&a,r=e.label,o=e.onClick,s=l.default({"sc-annotation-label":!0,"sc-annotation-label--disabled":t});return n.createElement("span",{className:s},n.createElement(i.TertiaryLink,{className:"sc-annotation-label-link",onClick:o},r))})});
+//# sourceMappingURL=annotation_label.min.js-vflyEJURi.map

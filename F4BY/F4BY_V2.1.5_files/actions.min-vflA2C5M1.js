@@ -1,0 +1,2 @@
+define(["require","exports","tslib","modules/clean/react/copy_to_dropbox/api","modules/core/browser"],function(e,r,t,o,i){"use strict";function n(e,r){return t.__awaiter(this,void 0,void 0,function(){var n;return t.__generator(this,function(t){switch(t.label){case 0:return[4,o.copySharedFile(e,r)];case 1:return n=t.sent(),i.redirect(n),[2]}})})}Object.defineProperty(r,"__esModule",{value:!0}),o=t.__importStar(o),i=t.__importStar(i),r.copySharedFile=n});
+//# sourceMappingURL=actions.min.js-vflICb_W7.map
