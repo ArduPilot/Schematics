@@ -1,0 +1,2 @@
+define(["require","exports","modules/clean/share_download/types"],function(e,n,o){"use strict";function t(e){return o.isEntry(e)?e.filename:e.name}function l(e){return o.isEntry(e)?e.is_dir?o.CopyableType.Folder:o.CopyableType.File:o.CopyableType.Collection}Object.defineProperty(n,"__esModule",{value:!0}),n.getCopyableName=t,n.getCopyableType=l});
+//# sourceMappingURL=utils.min.js-vflJuzw7d.map
