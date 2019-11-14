@@ -1,0 +1,81 @@
+<h1>Getting Started (Some tips)</h1>
+
+<h2>flash firmware</h2>
+You have probably plugged your board in, and gone to the <a href="192.168.7.2" >boards webserver</a> but you want to use something more hands on!
+
+1. Update the firmware to the latest and greatest <a href="http://192.168.1.7/bone101/Support/BoneScript/updates/" >instructions here</a> One 
+thing the instructions don't mention is that you need to edit a file in the boot directory in order for the sdcard to be flashed onto the firmware.
+   <ol>
+	<li>edit /boot/uEnv on the sdcard.</li>
+	<li>Change<br>
+##enable Generic eMMC Flasher:<br>
+##make sure, these tools are installed: dosfstools rsync<br>
+#cmdline=init=/opt/scripts/tools/eMMC/init-eMMC-flasher-v3.sh<br> 
+to<br>
+##enable Generic eMMC Flasher:<br>
+##make sure, these tools are installed: dosfstools rsync<br>
+cmdline=init=/opt/scripts/tools/eMMC/init-eMMC-flasher-v3.sh<br> 
+</li>
+	<li>Eject the sdcard from you computer and put it in your Beagle Blue Bone</li>
+	<li>Hold the update button (the one by itself) along with the reset, then let go of the reset, and then the upgrade. 
+	This tells the board to boot off the sdcard, with your instruction to flash the sdcard onto the boards firmware.</li>
+</ol>
+The flashing only takes a couple of minutes.
+
+<h2>terminal on the  board</h2>
+
+If you don't have ssh installed, install it. (google is your friend)
+Then ssh debian@192.168.7.2
+The board will tell you what the password is, on my it was temppwd
+To change your password use the command passwd it will ask you what your current password is, and then ask for the replacement. 
+Then it will say it was too simple and you have to do it again. Normal stuff.
+If you want to use your simple password, try this.
+<ol>
+<li>sudo -s</li> (become superuser/root)
+<li>enter your password</li>
+<li>passwd debian</li>
+<li>exit</li>(exit from superuser/root)
+</ol>
+When you are running as root, passwd is more compliant and will accept simple passwords.
+
+<h2>Want wifi?</h2>
+
+On my network, I'm set up as ip 192.168.1.*. 
+To turn your wifi on, do the following.
+<ol>
+	<li>sudo -s</li>(become superuser/root)
+	<li>cd /etc/network/</li>
+	<li>ifconfig</li> (Note the wifi inet address, if it is already set, you are done!)
+	<li>connmanctl<br>
+	tether wifi off<br>	
+enable wifi<br>
+scan wifi<br>
+services<br>(at this point you should see your network appear along with other stuff, in my case it was "AR Crystal wifi_f45eab2f1ee1_6372797774616c_managed_psk")
+</li>
+
+	<li>nano interfaces</li> (or whatever editor you like)
+	<li>
+	remove the comment # from the wifi lines so it now appears like<br>
+##connman: WiFi<br>
+#<br>
+connmanctl<br>
+connmanctl> tether wifi off<br>
+connmanctl> enable wifi<br>
+connmanctl> scan wifi<br>
+connmanctl> services<br>
+connmanctl> agent on<br>
+connmanctl> connect wifi_f45eab2f1ee1_6372797774616c_managed_psk<br>
+connmanctl> quit<br></li>
+<li>exit</li>
+	<li>note that you will need to fill in your own network data</li>
+</ol>
+<h2>static ip address</h2>
+You will usually want to have a fixed ip if you are doing robotics, so you have a standard ip to connect to. 
+In my case I wanted 192.168.1.7
+to do this, 
+<ol>
+	<li>sudo -s</li>
+	<li>connmanctl config wifi_f45eab2f1ee1_6372797774616c_managed_psk --ipv4 manual 192.168.1.7 255.255.255.0 192.168.1.1</li>
+	<li>exit</li>
+	substitute your own wifi connection of course, and use your own ip as desired.
+</ol> 
