@@ -5,3 +5,4 @@ have schematics for here, but this archive covers some of the best known boards 
 
 Also note that pinouts for all boards supported by the ChibiOS port of ArduPilot can be found here:
   https://github.com/ArduPilot/ardupilot/tree/master/libraries/AP_HAL_ChibiOS/hwdef
+dasdasdsadsdfdasdasdasdasd
