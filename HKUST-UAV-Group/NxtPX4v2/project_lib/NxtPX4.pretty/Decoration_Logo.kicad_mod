@@ -1,0 +1,24 @@
+(footprint "Decoration_Logo" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp b86be283-dcf4-4afc-9c11-0e15f23ee913)
+  )
+  (fp_text value "Decoration_Logo" (at 0 1 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 16cc24e6-d8de-4fb3-8c37-bd1d36dfa407)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 6699db8c-bb83-4a11-86ae-6aa8029be15e)
+  )
+  (fp_poly
+    (pts
+      (xy 0.068838 0.229691)
+      (xy -0.371162 0.229691)
+      (xy -0.061162 -0.290309)
+      (xy 0.378838 -0.290309)
+    )
+
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.SilkS") (tstamp e6b1c576-4f86-405d-a4c6-ac47e90a4adb))
+)
