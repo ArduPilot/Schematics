@@ -1,0 +1,24 @@
+(footprint "Decoration_Inverse_Logo" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (fp_text reference "REF**" (at -0.78 0.16 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp d0afb01d-01f0-4a7a-9814-a6ab2dc7a4a2)
+  )
+  (fp_text value "Decoration_Inverse" (at 0 1 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 1426b487-b930-49f3-a143-e70c3bce72f8)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp a36972e9-0a01-48c5-a861-faa1304f4f2a)
+  )
+  (fp_poly
+    (pts
+      (xy -0.058396 0.243659)
+      (xy 0.381604 0.243659)
+      (xy 0.071604 -0.276341)
+      (xy -0.368396 -0.276341)
+    )
+
+    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.SilkS") (tstamp b2ddcd0f-6cdf-487d-a8f5-aac4bb7b33fe))
+)
