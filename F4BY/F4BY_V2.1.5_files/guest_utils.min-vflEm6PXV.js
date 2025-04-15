@@ -1,2 +1,0 @@
-define(["require","exports"],function(e,i){"use strict";function t(){return{id:"dbid:guest_id",name:{display:"?",initials:"?",public:"?"}}}Object.defineProperty(i,"__esModule",{value:!0}),i.getGuestIUser=t});
-//# sourceMappingURL=guest_utils.min.js-vfltRyhaS.map

@@ -1,2 +1,0 @@
-define(["require","exports"],function(e,t){"use strict";function n(e){var t=document.cookie.match("(^|; )"+e+"=([^;]*)");return t?t[2]:""}function o(e,t){var o=new XMLHttpRequest;o.open("POST",e),o.withCredentials=!0,o.setRequestHeader("X-CSRF-Token",n("__Host-js_csrf")),o.send(t)}Object.defineProperty(t,"__esModule",{value:!0}),t.post=o});
-//# sourceMappingURL=ajax_minimal.min.js-vflYbEq3p.map

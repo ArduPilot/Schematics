@@ -1,2 +1,0 @@
-define(["require","exports","tslib","comments2/components/thread/thread"],function(e,t,r,o){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),r.__exportStar(o,t)});
-//# sourceMappingURL=index.min.js-vfltJWwby.map
