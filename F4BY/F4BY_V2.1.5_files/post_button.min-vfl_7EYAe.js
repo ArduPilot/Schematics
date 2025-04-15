@@ -1,2 +1,0 @@
-define(["require","exports","tslib","react","spectrum/button"],function(e,t,o,r,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),r=o.__importStar(r),t.PostButton=r.memo(function(e){var t=e.label,o=e.disabled,s=e.onClick;return r.createElement(n.Button,{className:"sc-comment-editor-controls-post",disabled:o,onClick:s},t)})});
-//# sourceMappingURL=post_button.min.js-vfl1UeVvG.map

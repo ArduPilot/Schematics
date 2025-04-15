@@ -1,2 +1,0 @@
-define(["require","exports","tslib","react","comments2/components/comment/annotation_label"],function(e,t,n,a,o){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),a=n.__importStar(a),t.AnnotationToggle=function(e){var t=e.disabled,n=e.label;return a.createElement("div",{className:"sc-annotation-toggle"},a.createElement("label",{className:"sc-annotation-toggle-inner"},a.createElement(o.AnnotationLabel,{disabled:t,label:n})))}});
-//# sourceMappingURL=annotation_toggle.min.js-vflurZM96.map

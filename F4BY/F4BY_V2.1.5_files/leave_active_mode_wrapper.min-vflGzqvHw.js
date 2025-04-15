@@ -1,2 +1,0 @@
-define(["require","exports","tslib","react"],function(e,t,r,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),n=r.__importStar(n),t.LeaveActiveModeWrapperContext=n.createContext({signalClick:function(){}}),t.LeaveActiveModeWrapper=function(e){var r=e.children;return n.createElement(t.LeaveActiveModeWrapperContext.Consumer,null,function(e){var t=e.signalClick;return n.createElement("span",{onClick:t},r)})}});
-//# sourceMappingURL=leave_active_mode_wrapper.min.js-vflMfHYMw.map

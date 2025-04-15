@@ -1,2 +1,0 @@
-define(["require","exports","tslib","react"],function(e,t,i,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),n=i.__importStar(n),t.CoachmarkTarget=function(e){return e.target===e.name?n.createElement("div",{ref:function(t){if(t&&!e.positions.target){var i=t.getBoundingClientRect();e.updatePosition({width:i.width,height:i.height,x:i.left,y:i.top})}}},e.children):n.Children.count(e.children)>0?n.createElement("div",null,e.children):null}});
-//# sourceMappingURL=coachmark_target.min.js-vfll74ftQ.map

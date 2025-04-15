@@ -1,2 +1,0 @@
-define(["require","exports"],function(e,t){"use strict";function r(e){return 100*e+"%"}Object.defineProperty(t,"__esModule",{value:!0}),t.toPercent=r});
-//# sourceMappingURL=to_percent.min.js-vflVtYZye.map

@@ -1,2 +1,0 @@
-define(["require","exports","comments2/components/comment_editor/comment_editor","comments2/components/comment_editor/numbered_comment_editor","comments2/components/comment_editor/time_coded_comment_editor","comments2/components/comment_editor/coach_mark_container"],function(e,o,m,t,n,r){"use strict";Object.defineProperty(o,"__esModule",{value:!0}),o.CommentEditor=m.CommentEditor,o.NumberedCommentEditor=t.NumberedCommentEditor,o.TimeCodedCommentEditor=n.TimeCodedCommentEditor,o.CoachMarkContainer=r.CoachMarkContainer});
-//# sourceMappingURL=index.min.js-vflYX20Zs.map

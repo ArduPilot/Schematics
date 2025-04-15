@@ -1,2 +1,0 @@
-define(["require","exports"],function(e,t){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.COMPONENT_CLASS_NAME="sc-annotation-instructional-tooltip-pane"});
-//# sourceMappingURL=utilities.min.js-vflmWe6Kn.map

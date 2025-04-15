@@ -1,2 +1,0 @@
-define(["require","exports"],function(t,e){"use strict";function o(t){var e=t;return void 0!==e.buttonText&&void 0!==e.buttonUrl}Object.defineProperty(e,"__esModule",{value:!0}),e.isTopNotificationContent=o});
-//# sourceMappingURL=version.min.js-vfllsZY_J.map

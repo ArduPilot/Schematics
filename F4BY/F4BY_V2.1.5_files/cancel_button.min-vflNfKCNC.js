@@ -1,2 +1,0 @@
-define(["require","exports","tslib","react","spectrum/button"],function(e,t,r,n,o){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),n=r.__importStar(n),t.CancelButton=n.memo(function(e){var t=e.label,r=e.disabled,c=e.onClick;return n.createElement(o.Button,{className:"sc-comment-editor-controls-cancel",disabled:r,onClick:c,variant:"borderless"},t)})});
-//# sourceMappingURL=cancel_button.min.js-vflXm1gXW.map

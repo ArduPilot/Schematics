@@ -1,2 +1,0 @@
-define(["require","exports","tslib","react","spectrum/icon_action"],function(e,t,n,i,o){"use strict";function r(){return i.createElement(o.IconAction,{name:"mention"})}Object.defineProperty(t,"__esModule",{value:!0}),i=n.__importStar(i),t.MentionIcon=r});
-//# sourceMappingURL=mention_icon.min.js-vflldsYvq.map
